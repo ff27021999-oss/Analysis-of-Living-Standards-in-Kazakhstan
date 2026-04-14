@@ -4,17 +4,21 @@
 Analysis of income, inflation, consumption, savings, macro trends and regional differences in Kazakhstan using Python, SQL and Power BI.
 
 ## Tools Used
-- Python
-- SQL
-- Power BI
-- Pandas / NumPy
+- Python (Data Cleaning, EDA)
+- SQL (Database Storage & Querying)
+- Power BI (Dashboard Development)
+- Excel / CSV (Raw Data Sources)
 
 ## Project Workflow
-1. Data Collection
-2. Data Cleaning
-3. Exploratory Data Analysis
-4. Dashboard Development
-5. Insight Generation
+Raw Data Sources  
+↓  
+Python (Cleaning & Feature Engineering)  
+↓  
+SQL Database Storage  
+↓  
+Power BI Data Connection  
+↓  
+Dashboard & Insights
 
 ## Key Insights
 - Strong positive correlation between income and consumption.
