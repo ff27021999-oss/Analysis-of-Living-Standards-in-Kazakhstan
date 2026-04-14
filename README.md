@@ -27,22 +27,22 @@ Analysis of income, inflation, consumption, savings, macro trends and regional d
 ## Dashboard Preview
 
 ### Income Analysis
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](kazakhstan-income-analysis/images/Screenshot 1.png)
 
 ### Inflation Analysis
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](kazakhstan-income-analysis/images/Screenshot 2.png)
 
 ### Consumption Analysis
-![Dashboard 3](images/dashboard3.png)
+![Dashboard 3](kazakhstan-income-analysis/images/Screenshot 3.png)
 
 ### Savings Analysis
-![Dashboard 4](images/dashboard4.png)
+![Dashboard 4](kazakhstan-income-analysis/images/Screenshot 4.png)
 
 ### Regional Comparison
-![Dashboard 5](images/dashboard5.png)
+![Dashboard 5](kazakhstan-income-analysis/images/Screenshot 5.png)
 
 ### Macro Analysis
-![Dashboard 6](images/dashboard6.png)
+![Dashboard 6](kazakhstan-income-analysis/images/Screenshot 6.png)
 
 ## Full Report
 See detailed analysis in:
