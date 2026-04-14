@@ -46,4 +46,5 @@ Analysis of income, inflation, consumption, savings, macro trends and regional d
 
 ## Full Report
 See detailed analysis in:
-[Project Report PDF](reports/project_report.pdf)
+[Project Report PDF](kazakhstan-income-analysis/insights
+/Analysis-of-Living-Standards-in-Kazakhstan_insights.pdf)
